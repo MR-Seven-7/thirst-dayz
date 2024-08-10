@@ -1,0 +1,25 @@
+.homeContainer {
+  padding: 5px;
+  border: 1px solid black;
+}
+
+.header {
+  display: flex;
+  margin: 20px;
+}
+
+.carousel {
+  margin: 20px;
+}
+
+.aboutUs {
+  background-color: lightblue;
+  margin: 20px;
+  padding: 10px;
+}
+.aboutUs p {
+  text-align: left;
+}
+.aboutUs h2 {
+  text-align: center;
+}

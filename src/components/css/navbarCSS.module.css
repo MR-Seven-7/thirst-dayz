@@ -1,0 +1,20 @@
+.navbarContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.hr {
+  margin: 0px;
+}
+
+.logoTag {
+  font-size: large;
+  font-weight: bolder;
+}
+
+.icon {
+  width: 20px;
+  height: 20px;
+}

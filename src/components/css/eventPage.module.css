@@ -1,0 +1,44 @@
+.eventContainer {
+  padding: 15px;
+  background-color: whitesmoke;
+}
+
+.detailsContainer {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 20px auto;
+}
+
+.eventPic {
+  height: 150px;
+  width: 250px;
+  background-color: gray;
+  margin: 10px;
+}
+
+.eventDetails {
+  margin: 10px;
+}
+
+.eventDetails p {
+  font-weight: bold;
+}
+
+.instructions {
+  margin-bottom: 20px;
+}
+
+.registerBtn {
+  background-color: rgb(12, 188, 182);
+  padding: 5px;
+  font-weight: bold;
+  width: 90px;
+  border-radius: 7px;
+  border: 3px solid rgb(232, 230, 230);
+  cursor: pointer;
+}
+
+.registerBtnDiv {
+  display: flex;
+  justify-content: center;
+}
