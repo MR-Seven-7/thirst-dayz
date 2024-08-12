@@ -22,7 +22,7 @@ const EventRegisterPage = () => {
         form***
       </div>
       <div className={styles.form}>
-        <form onSubmit={handleSubmit}>
+        <form action="https://formspree.io/f/xwpebabz" method="POST">
           <div className={styles.inputDiv}>
             <label for="firstName">First Name:</label>
             <input
